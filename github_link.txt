@@ -1,4 +1,4 @@
-GitHub Repository: 
+GitHub Repository: https://github.com/ThorBaldwin/python_etl_pipeline
 
 This repository contains the complete ETL pipeline for NYC DOB Job Application Filings data.
 The project follows object-oriented programming principles and PEP 8 standards.

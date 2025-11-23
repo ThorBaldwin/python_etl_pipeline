@@ -21,7 +21,7 @@ python_etl_pipeline/
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/ThorBaldwin/python_etl_pipeline
 cd python_etl_pipeline
 ```
 
